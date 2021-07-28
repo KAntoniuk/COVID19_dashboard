@@ -10,7 +10,7 @@ Plots are produced with matplotlib and seaborn, and then displayed in a Binder v
 
 ### HOW TO RUN:
 
-The dashboard is deployed as a Binder, click the link below:
+The dashboard is deployed as a Binder, click the link below (may take a few minutes on the first run):
 
 
 
